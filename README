@@ -1,5 +1,6 @@
 This is just a small valid html5-structure including a css-reset
 and the google-reference-url to version 1.6.0 of jQuery.
 
-Thanks to John Resig & jQuery-Team for creating this nice framework.
-Thanks to Eric Meyer for providing his css-browser-reset.
+Thanks to John Resig & jQuery-Team for creating this nice framework. http://jquery.org/about/
+
+Thanks to Eric Meyer for providing his css-browser-reset. http://meyerweb.com/eric/tools/css/reset/
