@@ -1,6 +1,6 @@
 This is just a small valid html5-structure including a css-reset and google's
-reference-url( http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js )
-to version 1.6.0 of jQuery.
+referencing url (http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js)
+to version 1.6.0 of the jQuery javascript framework.
 
 Thanks to John Resig & jQuery-Team for creating this nice framework. http://jquery.org/about/
 
