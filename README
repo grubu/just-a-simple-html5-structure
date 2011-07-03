@@ -5,3 +5,6 @@ to version 1.6.0 of the jQuery javascript framework.
 Thanks to John Resig & jQuery-Team for creating this nice framework. http://jquery.org/about/
 
 Thanks to Eric Meyer for providing his css-browser-reset. http://meyerweb.com/eric/tools/css/reset/
+
+It was checked for being valid at http://validator.w3.org/#validate_by_input
+on Sunday 3rd of July 2011.
